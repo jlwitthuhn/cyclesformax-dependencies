@@ -1,0 +1,9 @@
+[package]
+name = "builder"
+version = "0.1.0"
+authors = ["Jeff"]
+edition = "2018"
+
+[dependencies]
+getopts = "~0.2.21"
+rand = "~0.7.3"
